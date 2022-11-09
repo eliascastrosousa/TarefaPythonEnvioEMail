@@ -5,3 +5,6 @@ Nesta atividade, fomos orientados a fazer uma aplicação que irá buscar todos 
 
 Então, todo dia de manhã a aplicação fara esta busca na pasta sempre atrás de arquivos do dia anterior e então irá anexar estes arquivos encontrados para serem enviados por Email que será disparado logo em seguida.
 
+![Codigo em Execução](codigoexecutado.png)
+
+![Email na caixa de entrada](emailnacaixa.png)
